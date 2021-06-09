@@ -21,15 +21,15 @@ body {
 }
 
 .shop-item01 {
-    background-image: url(images/item001.png);
+    background-image: url(../images/item001.png);
    
 }
 .shop-item02 {
-    background-image: url(images/item002.png);
+    background-image: url(../images/item002.png);
     
 }
 .shop-item03 {
-    background-image: url(images/ikonka.jpg);
+    background-image: url(../images/item003.png);
 
 }
 
